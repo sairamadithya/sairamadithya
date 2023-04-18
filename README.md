@@ -1,4 +1,3 @@
-### Hi there 👋
 # 💫 About Me:
 I am a machine learning enthusiast looking for opportunities for projects related to automation in healthcare. I'm familiar with deep learning concepts, especially with imaging data. I've worked with image classification and image segmentation in both 2d and 3d imaging data.
 
