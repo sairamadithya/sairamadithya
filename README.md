@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a machine learning enthusiast looking for opportunities for projects related to automation in healthcare. I'm familiar with deep learning concepts, especially with imaging data. I've worked with image classification and image segmentation in both 2d and 3d imaging data.
+I am a machine learning enthusiast looking for opportunities for projects related to automation in healthcare. I'm familiar with deep learning concepts, especially with imaging data. I've worked with image classification and image segmentation in both 2d and 3d imaging data. I've been the student research head for the center of excellence in medical imaging, a research foundation at the department of biomedical engineering in REC. I've worked with deep learning based applications in medical imaging for the development of automated diagnostic systems.
 
 
 ## 🌐 Socials:
