@@ -25,11 +25,11 @@ I am an aspiring full stack data scientist, currently pursuing masters in AIML f
 - 
 
 # ✍️ Blog Posts : 
--[feature selection 101-advanced techniques for machine learning optimization](https://medium.com/@sairamadithya2002/feature-selection-101-advanced-techniques-for-machine-learning-optimization-4a2c446e9e7b)
--[feature selection 101-all you need to know about features](https://medium.com/@sairamadithya2002/feature-selection-101-all-you-need-to-know-about-features-519bec2d3cf2)
--[feature selection 101-filter selection techniques](https://medium.com/@sairamadithya2002/feature-selection-101-filter-selection-techniques-5d7fe6b6fa02)
--[feature selection 101-filter selection techniques-part 2](https://medium.com/@sairamadithya2002/feature-selection-101-filter-selection-techniques-part-2-bcbbb7b78d84)
--[feature selection-101-wrapper selection techniques](https://medium.com/@sairamadithya2002/feature-selection-101-wrapper-selection-techniques-5ca2cc594f7b)
+- [feature selection 101-advanced techniques for machine learning optimization](https://medium.com/@sairamadithya2002/feature-selection-101-advanced-techniques-for-machine-learning-optimization-4a2c446e9e7b)
+- [feature selection 101-all you need to know about features](https://medium.com/@sairamadithya2002/feature-selection-101-all-you-need-to-know-about-features-519bec2d3cf2)
+- [feature selection 101-filter selection techniques](https://medium.com/@sairamadithya2002/feature-selection-101-filter-selection-techniques-5d7fe6b6fa02)
+- [feature selection 101-filter selection techniques-part 2](https://medium.com/@sairamadithya2002/feature-selection-101-filter-selection-techniques-part-2-bcbbb7b78d84)
+- [feature selection-101-wrapper selection techniques](https://medium.com/@sairamadithya2002/feature-selection-101-wrapper-selection-techniques-5ca2cc594f7b)
 - [A.I made understandable-introduction to the magic technology](https://medium.com/@sairamadithya2002/a-i-made-understandable-an-introduction-to-the-magic-tech-119df5d41dc7)
 - [Wondrous scope of emerging technology artificial intelligence in medicine](https://medium.com/@sairamadithya2002/wondrous-scope-of-emerging-technology-artificial-intelligence-in-medicine-89391bbc8650)
 - [Facts about expert systems, CAD and CMD you need to know](https://www.sitepoint.com/github-profile-readme/)
